@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-25 13:10" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-26 03:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>LearnPress (Blue)</title>
 	<link>https://thepixelcurve.com/edubin/lpb</link>
 	<description></description>
-	<pubDate>Sun, 25 Feb 2024 13:10:32 +0000</pubDate>
+	<pubDate>Mon, 26 Feb 2024 03:43:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://thepixelcurve.com/edubin/</wp:base_site_url>
@@ -148,29 +148,22 @@
 		<wp:term_name><![CDATA[App]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>35</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[blue]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Blue]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>36</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[book]]></wp:term_slug>
+		<wp:term_slug><![CDATA[books]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Book]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
+		<wp:term_name><![CDATA[Books]]></wp:term_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4075]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -181,59 +174,11 @@
 		<wp:term_name><![CDATA[Business]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>38</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[business]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Business]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>39</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[cat-1]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Cat 1]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>40</wp:term_id>
 		<wp:term_taxonomy><![CDATA[course_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[development]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Development]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>41</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[education]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Education]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>42</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[event]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Event]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>7</wp:term_id>
@@ -264,40 +209,11 @@
 		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>43</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Featured]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>44</wp:term_id>
 		<wp:term_taxonomy><![CDATA[course_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[finance]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Finance]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>45</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[gray]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Gray]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>46</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[green]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Green]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>3</wp:term_id>
@@ -314,17 +230,6 @@
 		<wp:term_name><![CDATA[iOS]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>48</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_size]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[large]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Large]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>49</wp:term_id>
 		<wp:term_taxonomy><![CDATA[course_category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[lifestyle]]></wp:term_slug>
@@ -337,17 +242,6 @@
 		<wp:term_slug><![CDATA[marketing]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Marketing]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>51</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_size]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[medium]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Medium]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>9</wp:term_id>
@@ -406,81 +300,11 @@
 		<wp:term_name><![CDATA[Recipe]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>54</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[red]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Red]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>55</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[school]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[School]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[simple]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>56</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_size]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[small]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Small]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>57</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[tags]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Tags]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>58</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[tags2]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Tags2]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>60</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[technology]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Technology]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>59</wp:term_id>
@@ -490,43 +314,11 @@
 		<wp:term_name><![CDATA[Technology]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>15</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>61</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[university]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[University]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[variable]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>62</wp:term_id>
-		<wp:term_taxonomy><![CDATA[tp_event_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[wordpress]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[WordPress]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>63</wp:term_id>
-		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[yellow]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Yellow]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
 	</wp:term>
 			<wp:term><wp:term_id>70</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-copyright-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Copyright Menu]]></wp:term_name>
 </wp:term>
@@ -42036,15 +41828,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
-		<category domain="pa_color" nicename="green"><![CDATA[Green]]></category>
-		<category domain="pa_size" nicename="large"><![CDATA[Large]]></category>
-		<category domain="pa_size" nicename="medium"><![CDATA[Medium]]></category>
-		<category domain="pa_color" nicename="red"><![CDATA[Red]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="pa_size" nicename="small"><![CDATA[Small]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-20]]></wp:meta_value>
@@ -42193,11 +41979,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="pa_color" nicename="green"><![CDATA[Green]]></category>
-		<category domain="pa_color" nicename="red"><![CDATA[Red]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-19]]></wp:meta_value>
@@ -42342,8 +42125,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -42503,8 +42285,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
-		<category domain="pa_color" nicename="gray"><![CDATA[Gray]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -42642,8 +42423,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
-		<category domain="pa_color" nicename="red"><![CDATA[Red]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -42781,8 +42561,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-13]]></wp:meta_value>
@@ -42919,10 +42699,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="pa_color" nicename="yellow"><![CDATA[Yellow]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-14]]></wp:meta_value>
@@ -43059,7 +42838,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
@@ -43194,12 +42973,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_visibility" nicename="exclude-from-catalog"><![CDATA[exclude-from-catalog]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
+		<category domain="product_visibility" nicename="exclude-from-catalog"><![CDATA[exclude-from-catalog]]></category>
 		<category domain="product_visibility" nicename="exclude-from-search"><![CDATA[exclude-from-search]]></category>
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
-		<category domain="pa_color" nicename="gray"><![CDATA[Gray]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-16]]></wp:meta_value>
@@ -43340,7 +43118,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
@@ -43475,9 +43253,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="green"><![CDATA[Green]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-10]]></wp:meta_value>
@@ -43614,8 +43391,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -43753,7 +43529,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -44151,12 +43927,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -44274,12 +44045,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_category" nicename="university"><![CDATA[University]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3631]]></wp:meta_value>
 		</wp:postmeta>
@@ -44401,12 +44167,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3747]]></wp:meta_value>
 		</wp:postmeta>
@@ -44528,12 +44289,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_category" nicename="university"><![CDATA[University]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3746]]></wp:meta_value>
 		</wp:postmeta>
@@ -44655,12 +44411,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_category" nicename="university"><![CDATA[University]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3745]]></wp:meta_value>
 		</wp:postmeta>
@@ -44782,12 +44533,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3744]]></wp:meta_value>
 		</wp:postmeta>
@@ -44909,12 +44655,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3743]]></wp:meta_value>
 		</wp:postmeta>
@@ -45036,12 +44777,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[tp_event]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="tp_event_tag" nicename="education"><![CDATA[Education]]></category>
-		<category domain="tp_event_tag" nicename="event"><![CDATA[Event]]></category>
-		<category domain="tp_event_tag" nicename="school"><![CDATA[School]]></category>
-		<category domain="tp_event_category" nicename="university"><![CDATA[University]]></category>
-		<category domain="tp_event_tag" nicename="wordpress"><![CDATA[WordPress]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3742]]></wp:meta_value>
 		</wp:postmeta>
@@ -45149,7 +44885,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -45287,8 +45023,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
-		<category domain="pa_color" nicename="gray"><![CDATA[Gray]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -45434,8 +45169,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
-		<category domain="pa_color" nicename="red"><![CDATA[Red]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -45577,8 +45311,8 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[book-06]]></wp:meta_value>
@@ -45708,8 +45442,8 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_id>2820</wp:post_id>
 		<wp:post_date><![CDATA[2024-01-23 10:58:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-01-23 10:58:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-17 14:27:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-17 14:27:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-02-26 03:40:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-26 03:40:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book-demo-03]]></wp:post_name>
@@ -45719,8 +45453,8 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="external"><![CDATA[external]]></category>
-		<category domain="product_cat" nicename="technology"><![CDATA[Technology]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Book-03]]></wp:meta_value>
@@ -45861,7 +45595,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="business"><![CDATA[Business]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -46003,8 +45737,7 @@ Join digital business leaders as the event returns to Boston early 2019 to navig
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="pa_color" nicename="blue"><![CDATA[Blue]]></category>
-		<category domain="product_cat" nicename="book"><![CDATA[Book]]></category>
+										<category domain="product_cat" nicename="books"><![CDATA[Books]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
