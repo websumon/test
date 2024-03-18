@@ -66,7 +66,7 @@ do_action('tutor_course/single/before/wrap');
             <?php if ($tutor_last_update_single) { ?>
 
             <div class="lead-meta-item meta-last-update">
-              <span class="lead-meta-value"><?php echo esc_html__('Last Updated :', 'edubin'); ?></span> <?php echo get_the_modified_date(); ?>
+              <span class="lead-meta-value"><?php echo esc_html__('Last Updated :', 'edubin'); ?> <?php echo get_the_modified_date(); ?></span>
             </div>         
                 
             <?php } ?>
